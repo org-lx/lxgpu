@@ -1,0 +1,146 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/buffer.o",
+      "src/opengl/buffer.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/opengl/buffer.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/buffer.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/render_mesh.o",
+      "src/opengl/render_mesh.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/opengl/render_mesh.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/render_mesh.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/draw.o",
+      "src/opengl/draw.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/opengl/draw.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/draw.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/renderer.o",
+      "src/renderer.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/renderer.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/renderer.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/init.o",
+      "src/opengl/init.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/opengl/init.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/init.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/shader.o",
+      "src/opengl/shader.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/opengl/shader.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/shader.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/opengl_renderer.o",
+      "src/opengl/opengl_renderer.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/opengl/opengl_renderer.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/opengl_renderer.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-fPIC",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/viewport.o",
+      "src/opengl/viewport.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxgpu",
+    "file": "/home/turdle/Projects/lx/lxgpu/src/opengl/viewport.c",
+    "output": "/home/turdle/Projects/lx/lxgpu/obj/Debug/viewport.o"
+  }
+]

@@ -1,9 +1,9 @@
-workspace "lxtemplate"
+workspace "lxgpu"
    architecture "x86_64"
    configurations { "Debug", "Release"}
 
-project "lxtemplate"
-   kind "ConsoleApp"
+project "lxgpu"
+   kind "SharedLib"
    language "C"
    cdialect "c99"
    targetdir "bin"
